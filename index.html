@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Quiz Challenge</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+
+<body>
+    <header>
+        <div class="view_highscores">View High Scores</div>
+        <div class="timer">Time: 60</div>
+    </header>
+
+    <main>
+        <section>
+            <div class="description">
+                <div class="title">
+                    <h1>Coding Quiz</h1>
+                </div>
+                <div class="instructions">
+                    <p>Try to answer the following code-related questions within the time limit. Keep in mind that
+                        incorrect answers will penalize your score/time by ten seconds!</p>
+                </div>
+                <button class="start_button button">Start Quiz</button>
+            </div>
+        </section>
+
+        <section>
+            <div class="quiz">
+                <h2 class="questions"></h2>
+                <ul>
+                    <li><button class="multiple_choice button" id="answer1" value="1"></button></li>
+                    <li><button class="multiple_choice button" id="answer2" value="2"></button></li>
+                    <li><button class="multiple_choice button" id="answer3" value="3"></button></li>
+                    <li><button class="multiple_choice button" id="answer4" value="4"></button></li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="completed_quiz">
+            <h2 class="finish">All done!</h2>
+            <p class="final_score"></p>
+            <p>Enter initial: <input id="initials"><button class="submit_button">Submit</button></p>
+        </section>
+
+        <div class="check_answer"></div>
+
+        <section class="high_scores">
+            <h2>High scores</h2>
+            <ul class="score_list"></ul>
+            <div class="score_btns">
+                <button class="back_btn button">Go back</button>
+                <button class="clear_btn button">Clear high scores</button>
+            </div>
+        </section>
+    </main>
+
+    <script src="assets/script.js"></script>
+</body>
+
+</html>
