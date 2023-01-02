@@ -21,7 +21,7 @@ THEN I can save my initials and score
 
 ## Description
 
-This is a Coding Quiz application that heavily implements JavaScript. When the "Start Quiz" button is pressed, then the timer starts counting down. With every wrong answer, 10 seconds is deducted from the timer/score. Every time a question is answered, another question is displayed. An answer feedback is displayed each time a multiple choice is clicked on. At the end of the quiz, the user can enter their initials and save their score! All these elements are implemented using JavaScript and web APIs.
+This is a Coding Quiz application that heavily implements JavaScript. When the "Start Quiz" button is pressed, then the timer starts counting down. With every wrong answer, 10 seconds are deducted from the timer/score. Every time a question is answered, another question is displayed. An answer feedback is displayed each time a multiple choice is clicked on. At the end of the quiz, the user can enter their initials and save their score! All these elements are implemented using JavaScript and web APIs.
 
 ## Usage
 
