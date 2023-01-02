@@ -43,7 +43,7 @@ The remaining time left is the final score. The user can then save their initial
 
 ## Link to Deployed Application
 
-Link to deployed application:
+Link to deployed application: https://mia2380.github.io/Allemand_Module4_coding-quiz-Challenge/
 
 ## Screenshot of Deployed Application
 Main Page: <img width="2054" alt="Main Page" src="https://user-images.githubusercontent.com/112995643/210285527-bffd577e-c3e9-4c1a-a6ec-8239c1b036e6.png">
