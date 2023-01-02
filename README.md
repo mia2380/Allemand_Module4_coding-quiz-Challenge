@@ -46,6 +46,10 @@ The remaining time left is the final score. The user can then save their initial
 Link to deployed application:
 
 ## Screenshot of Deployed Application
+Main Page: <img width="2054" alt="Main Page" src="https://user-images.githubusercontent.com/112995643/210285527-bffd577e-c3e9-4c1a-a6ec-8239c1b036e6.png">
+Question example: <img width="2058" alt="Screenshot 2023-01-02 at 18 46 40" src="https://user-images.githubusercontent.com/112995643/210285581-ea69e339-30ad-49d8-a4e5-31e025cfa03c.png">
+Completed test with Score: <img width="2057" alt="Screenshot 2023-01-02 at 18 48 06" src="https://user-images.githubusercontent.com/112995643/210285612-d674277c-1cbf-49ce-b08b-7304c46aba63.png">
+High Score: <img width="2053" alt="Screenshot 2023-01-02 at 18 48 21" src="https://user-images.githubusercontent.com/112995643/210285625-9ee81b74-ea75-4e40-9006-2e27c899c7e1.png">
 
 ## Link to GitHub Repository
 
