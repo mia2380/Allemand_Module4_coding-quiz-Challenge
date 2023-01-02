@@ -49,7 +49,7 @@ Link to deployed application:
 
 ## Link to GitHub Repository
 
-Link to GitHub repository:
+Link to GitHub repository: git@github.com:mia2380/Allemand_Module4_coding-quiz-Challenge.git
 
 ## License
 
